@@ -2,3 +2,5 @@ node_modules
 *.txt
 *.xml
 .DS_Store
+*.zip
+*.7z
